@@ -8,7 +8,7 @@ function About() {
         <div className="about-info">
         Hello There ✋,I am,
          <br /> <span className="info-name">Kholid Anas Amrulloh</span>.
-         <br /> I have experience working with Laravel, Java, AngularJs, ReactJs, ExpressJs, Symfony and VueJs
+         <br /> I am Fullstack Developer with experience working using Laravel, Java, AngularJs, ReactJs, ExpressJs, Symfony and VueJs
         </div>
         <div className="about-photo">
           <img 
